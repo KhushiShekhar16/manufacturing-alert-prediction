@@ -15,7 +15,11 @@ This project stores manufacturing production data in MySQL and uses Python (pand
 4. Launch dashboard:
 
 ## 📊 Screenshots
-(Add your dashboard screenshots here)
+## Screenshots  
+
+![Prediction Output](screenshots/screenshot(13).png)  
+![Prediction Output](screenshots/screenshot(14).png)  
+![Prediction Output](screenshots/screenshot(15).png)
 
 ## 👤 Author
 Khushi, NIT Kurukshetra
